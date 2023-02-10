@@ -17,3 +17,6 @@ for the usage of pipenv, see: https://pipenv-fork.readthedocs.io/en/latest/basic
 ```
 
 
+```bash
+exit #deactivate pipenv shell
+```
