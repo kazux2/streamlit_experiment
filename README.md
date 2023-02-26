@@ -13,7 +13,7 @@ pipenv shell #activate virtual env
 for the usage of pipenv, see: https://pipenv-fork.readthedocs.io/en/latest/basics.html#example-pipenv-workflow
 
 ```bash
-> streamlit run uber_pickups.py
+streamlit run script.py
 ```
 
 
